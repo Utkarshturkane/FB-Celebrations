@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'PlayfairDisplayBold';
+    src: url('fonts/PlayfairDisplayBold.eot');
+    src: url('fonts/PlayfairDisplayBold.eot') format('embedded-opentype'),
+         url('fonts/PlayfairDisplayBold.woff2') format('woff2'),
+         url('fonts/PlayfairDisplayBold.woff') format('woff'),
+         url('fonts/PlayfairDisplayBold.ttf') format('truetype'),
+         url('fonts/PlayfairDisplayBold.svg#PlayfairDisplayBold') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'AthitiRegular';
+    src: url('fonts/AthitiRegular.eot');
+    src: url('fonts/AthitiRegular.eot') format('embedded-opentype'),
+         url('fonts/AthitiRegular.woff2') format('woff2'),
+         url('fonts/AthitiRegular.woff') format('woff'),
+         url('fonts/AthitiRegular.ttf') format('truetype'),
+         url('fonts/AthitiRegular.svg#AthitiRegular') format('svg');
+}

@@ -1,0 +1,13 @@
+.edu-sec > h2 > span.date{
+    display: block;
+    font-size: initial;
+    font-style: initial;
+    color: #603035;
+    /* color: #fff; */
+    transition: all 0.3s ease 0s;
+    font-family: initial;
+    /* margin: 0; */
+    margin-top: 5px;
+    font-weight: bold;
+}
+    
